@@ -4,7 +4,7 @@ A great way to learn from YouTube courses without any distractions and the abili
 
 ## __Starting the Dev Server__
 
-- Clone the repository to your local system. `https://github.com/rosekamallove/youtemy`
+- Clone the repository to your local system. `https://github.com/Ritesh055/youtemy`
 
 -  Firebase API Setup:
 
